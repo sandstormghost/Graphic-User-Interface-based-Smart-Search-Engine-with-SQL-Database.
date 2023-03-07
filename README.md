@@ -20,4 +20,4 @@ GUI pakage
  
  Next copy the source code and execute the program.
  
- if you have any word which not present in the suggest box den you can add the world to the data file by pressing add button
+After execute the window pops up search the word and press search the gets updated to database.
